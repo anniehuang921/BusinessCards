@@ -8,7 +8,7 @@ from agilearning import agilearner
 
 @agilearner
 def mingyi(**my):
-    """ Learning Mixer """
+    """ Learning Blender """
 
     assert my["github"] == "http://github.com/anniehuang921"
     assert my["email"] == "anniehuang921@icloud.com"
